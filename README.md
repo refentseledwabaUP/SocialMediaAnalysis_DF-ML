@@ -2,22 +2,24 @@
 
 # Description
 
-Creating a result summary page.
+Social Media Analysis: AI techniques, including 
+natural language processing (NLP) and sentiment 
+analysis, can assist in analyzing social media 
+content to identify relevant information, track trends, 
+and detect potential threats or indicators of illegal 
+activities.
 
 ## Built With
 
-- HTML
-- CSS
+- Jupyter
 
 ## Getting Started
-
-## Live view
-[Live view](https://stunning-sundae-198f64.netlify.app/)
 
 ## Prerequisite
 
 - Install Git.
 - Install Vs code or any text editor.
+- Anaconda/Jupyter Notebook
 
 👤 **Author1**
 
